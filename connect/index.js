@@ -1,6 +1,6 @@
 /**
-   * Made By Fandyyy 🕴️
-   * No Enc 100% Chat wa.me/6281540022632
+   * Made By Aisyahhh 🕴️
+   * No Enc 100% Chat wa.me/6282376267531
 */
 
 require('../settings')
